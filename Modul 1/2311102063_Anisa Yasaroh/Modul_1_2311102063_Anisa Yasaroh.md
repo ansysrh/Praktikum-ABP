@@ -52,6 +52,8 @@ Penggunaan Git dapat dilakukan melalui Command Line Interface (CLI) atau antarmu
 # Menginstal Git
 Instalasi Git dilakukan dengan mengunduh file installer melalui situs resmi Git. Setelah proses pengunduhan selesai, file installer dijalankan dan tahapan instalasi diikuti sesuai dengan petunjuk yang tersedia hingga proses instalasi berhasil diselesaikan.
 
+<img src="assets/langkah1.jpg" alt="Keterangan Foto" width="600">
+
 # Mengecek Instalasi Git pada Terminal
 Setelah proses instalasi selesai, langkah berikutnya adalah memastikan Git sudah terpasang dengan benar dengan menjalankan perintah berikut pada Command Prompt. Perintah : 
 ```
